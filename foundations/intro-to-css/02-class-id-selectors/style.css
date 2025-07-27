@@ -1,0 +1,22 @@
+.odd-numbered-element {
+    background-color: lightpink;
+    font: verdana, dejavu sans, sans-serif;
+}
+
+
+#oneID {
+    color: blue;
+    font-size: 36px;
+    font-weight: 550;
+    ;
+}
+
+#third-element {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 600;
+}
